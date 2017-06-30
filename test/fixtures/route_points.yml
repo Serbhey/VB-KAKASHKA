@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  item_id: 1
+  visited: false
+  planned_arrival_time: 2017-06-21 18:14:07
+  planned_departure_time: 2017-06-21 18:14:07
+  real_arrival_time: 2017-06-21 18:14:07
+  real_departure_time: 2017-06-21 18:14:07
+
+two:
+  item_id: 1
+  visited: false
+  planned_arrival_time: 2017-06-21 18:14:07
+  planned_departure_time: 2017-06-21 18:14:07
+  real_arrival_time: 2017-06-21 18:14:07
+  real_departure_time: 2017-06-21 18:14:07

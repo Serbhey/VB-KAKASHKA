@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  gos_num: MyString
+  vin_num: MyString
+  model: MyString
+  label: MyString
+  category: MyString
+
+two:
+  gos_num: MyString
+  vin_num: MyString
+  model: MyString
+  label: MyString
+  category: MyString
